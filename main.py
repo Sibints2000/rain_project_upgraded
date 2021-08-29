@@ -34,3 +34,4 @@ if will_rain:
         from_="+16318306012",
         to="+917760279160"
     )
+    print(message.status)
