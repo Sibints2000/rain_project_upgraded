@@ -8,8 +8,8 @@ account_sid = "AC88a8c9dc2194c9afa111d4f97f50afae"
 auth_token = "be7bdde9a96548aaea6d39643176a1e3"
 
 weather_params = {
-    "lat":  51.759050,
-    "lon":  19.458600,
+    "lat": 12.871930,
+    "lon":  74.832540,
     "appid": api_key,
     "exclude": "current,minutely,daily"
 }
